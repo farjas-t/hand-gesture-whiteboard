@@ -1,0 +1,16 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+
+# Ignore recorded videos
+recordings/
+
+# Ignore project-specific settings
+.vscode/
+.idea/
+
